@@ -1,3 +1,4 @@
 this is the first line, it is quite boring
-this is the second line
-this is the third line
+this is the second line, it is in the middle
+this is the third line, it is the final line
+this is the fourth line, it shouldn't really be here.
